@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'desafio-2';
+  
+  clientes = ["Leonel","Daniel", "Nicolas"];
+
+  color: number = -1; 
 }
+
+
